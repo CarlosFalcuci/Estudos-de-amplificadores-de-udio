@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.raw
+*.log
+*.net
+*.op.raw
+*.op.log
+*.plt
+*.asy.bak
+*.asc.bak
+.pytest_cache/
+teste_py_lt*/
+temp/
+THD/
